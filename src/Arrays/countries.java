@@ -18,7 +18,7 @@ String country4=scan.nextLine();
 
 String [] country = {country1, country2, country3, country4};
 for (int i=0; i<country.length;i++) {
-	System.out.println()
+	System.out.println();
 }
 	}
 
